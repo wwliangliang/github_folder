@@ -1,2 +1,8 @@
 #This is a git setup 04/07/2017 22:47
 
+
+#step
+git add README
+git commit -m "some_message"
+git remote add origin https://github.com/wwliangliang/github_folder.git
+git push origin master
